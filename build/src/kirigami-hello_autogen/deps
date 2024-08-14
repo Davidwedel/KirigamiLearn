@@ -1,0 +1,7 @@
+kirigami-hello_autogen/timestamp: \
+	/home/davidwedel/projects/kirilearn/src/CMakeLists.txt \
+	/home/davidwedel/projects/kirilearn/src/main.cpp \
+	/usr/lib64/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	/usr/lib64/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	/usr/lib64/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
+	/usr/bin/cmake

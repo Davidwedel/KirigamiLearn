@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=Kirigami Tutorial
+Name[ca]=Guia d'aprenentatge del Kirigami
+Name[cs]=Tutoriál Kirigami
+Name[eo]=Lernilo pri Kirigami
+Name[es]=Tutorial de Kirigami
+Name[it]=Esercitazione di Kirigami
+Name[nl]=Kirigami handleiding
+Name[sl]=Učbenik Kirigami
+Name[sv]=Kirigami-handledning
+Name[tr]=Kirigami Öğreticisi
+Name[uk]=Підручник з Kirigami
+Name[x-test]=xxKirigami Tutorialxx
+Name[zh_TW]=Kirigami 教學
+Exec=kirigami-hello
+Icon=kde
+Type=Application
+Terminal=false
+Categories=Utility
+

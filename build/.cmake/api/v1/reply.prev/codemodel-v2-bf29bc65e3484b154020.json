@@ -1,0 +1,234 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-2129005440e6e7ae9484.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						7,
+						17
+					]
+				},
+				{
+					"build" : "src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src-659b491d8061150d95b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "kirigami-tutorial",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "KF6CoreAddons_QCH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KF6CoreAddons_QCH-20d959613a9a5a300c69.json",
+					"name" : "KF6CoreAddons_QCH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KF6I18n_QCH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KF6I18n_QCH-64d80e54157f3b8c62fb.json",
+					"name" : "KF6I18n_QCH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KF6IconThemes_QCH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KF6IconThemes_QCH-b946f730a322e6d51588.json",
+					"name" : "KF6IconThemes_QCH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "all_qmllint::@145eef247bfb46b6828c",
+					"jsonFile" : "target-all_qmllint-4127983b51423a5436ab.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "all_qmllint_json::@145eef247bfb46b6828c",
+					"jsonFile" : "target-all_qmllint_json-82d813c912de79c1bde8.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "all_qmllint_module::@145eef247bfb46b6828c",
+					"jsonFile" : "target-all_qmllint_module-9b918d445c52e92bd612.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "all_qmltyperegistrations::@145eef247bfb46b6828c",
+					"jsonFile" : "target-all_qmltyperegistrations-e2d6550ed71d78053bd0.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fetch-translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fetch-translations-e57ba6de8fda6d35ffec.json",
+					"name" : "fetch-translations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kirigami-hello::@145eef247bfb46b6828c",
+					"jsonFile" : "target-kirigami-hello-d198c89bf3ca0187903b.json",
+					"name" : "kirigami-hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kirigami-hello_autogen::@145eef247bfb46b6828c",
+					"jsonFile" : "target-kirigami-hello_autogen-17379be3eb2183d6250f.json",
+					"name" : "kirigami-hello_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kirigami-hello_autogen_timestamp_deps::@145eef247bfb46b6828c",
+					"jsonFile" : "target-kirigami-hello_autogen_timestamp_deps-8855cc15fbbb36131848.json",
+					"name" : "kirigami-hello_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kirigami-hello_other_files::@145eef247bfb46b6828c",
+					"jsonFile" : "target-kirigami-hello_other_files-a5e23afe176c16d96daf.json",
+					"name" : "kirigami-hello_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kirigami-hello_qmllint::@145eef247bfb46b6828c",
+					"jsonFile" : "target-kirigami-hello_qmllint-161b94755b64b72bc71a.json",
+					"name" : "kirigami-hello_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kirigami-hello_qmllint_json::@145eef247bfb46b6828c",
+					"jsonFile" : "target-kirigami-hello_qmllint_json-c6801b5403cbdb9b6a83.json",
+					"name" : "kirigami-hello_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kirigami-hello_qmllint_module::@145eef247bfb46b6828c",
+					"jsonFile" : "target-kirigami-hello_qmllint_module-2b0402edfdbd0bdcd9e7.json",
+					"name" : "kirigami-hello_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kirigami-hello_qmltyperegistration::@145eef247bfb46b6828c",
+					"jsonFile" : "target-kirigami-hello_qmltyperegistration-f33e180bdd8273e9a7a3.json",
+					"name" : "kirigami-hello_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kirigami-hello_tooling::@145eef247bfb46b6828c",
+					"jsonFile" : "target-kirigami-hello_tooling-e8333ba158fa4ac1d5df.json",
+					"name" : "kirigami-hello_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-fee6d0598864c4117460.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/davidwedel/projects/kirilearn/build",
+		"source" : "/home/davidwedel/projects/kirilearn"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
