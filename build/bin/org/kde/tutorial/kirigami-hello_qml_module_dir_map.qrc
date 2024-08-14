@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qt/qml/org/kde/tutorial">/home/davidwedel/projects/kirilearn/build/bin/org/kde/tutorial</file>
-
-  </qresource>
-</RCC>

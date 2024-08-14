@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/org/kde/tutorial">
-    <file alias="qmldir">/home/davidwedel/projects/kirilearn/build/bin/org/kde/tutorial/qmldir</file>
-  </qresource>
-</RCC>
-
